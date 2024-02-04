@@ -19,6 +19,6 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: leeloo_micro_left
+    shield: scylla_left
   - board: nice_nano_v2
-    shield: leeloo_micro_right
+    shield: scylla_right_trackpoint
