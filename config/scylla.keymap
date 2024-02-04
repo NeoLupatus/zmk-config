@@ -59,25 +59,6 @@
     };
 };
 
-/ {
-    conditional_layers {
-        compatible = "zmk,conditional-layers";
-        adjust_layer {
-            if-layers = <QW_L QW_R>;
-            then-layer = <QW_A>;
-        };
-    };
-
-    combos {
-        compatible = "zmk,combos";
-
-        combo_esc {
-            timeout-ms = <50>;
-            key-positions = <0 1>;
-            layers = <QW_M>;
-            bindings = <&kp ESC>;
-        };
-    };
 
     keymap {
         compatible = "zmk,keymap";
