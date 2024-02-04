@@ -46,6 +46,7 @@
 &kp LSHFT  &kp A      &kp S      &kp D      &kp F          &kp G            &kp H          &kp J      &kp K      &kp L      &kp SEMI     &kp SQT
 &kp LCTRL  &kp Z      &kp X      &kp C      &kp V          &kp B            &kp N          &kp M      &kp COMMA  &kp DOT    &kp FSLH     &kp WIN
 //           &lt 3 LALT &kp SPACE  &kp RET    &lt 2 MINUS    &lt 1 EQUAL      &kp bspc_del   &kp RSHFT  &mkp LCLK  &mkp MCLK  &mkp RCLK
+           &kp LALT &kp SPACE  &kp RET    &kp MINUS    &kp EQUAL      &kp bspc_del   &kp RSHFT  &mkp LCLK  &mkp MCLK  &mkp RCLK
             >;
         };
 
