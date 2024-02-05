@@ -3,7 +3,7 @@ if SHIELD_SCYLLA_RIGHT_TRACKPOINT
 config ZMK_KEYBOARD_NAME
     default "Scylla"
 
-config AMK_SPLIT_ROLE_CENTRAL
+config ZMK_SPLIT_ROLE_CENTRAL
     default y
 
 endif
