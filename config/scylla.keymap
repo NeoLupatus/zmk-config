@@ -78,7 +78,7 @@
 &sys_reset     &bt BT_SEL 0    &bt BT_SEL 1    &bt BT_SEL 2    &bt BT_SEL 3        &bt BT_SEL 4          &bt BT_DISC 0        &bt BT_DISC 1    &bt BT_DISC 2    &bt BT_DISC 3    &bt BT_DISC 4           &sys_reset
 &bootloader    &trans     &trans     &trans     &bt BT_NXT         &trans           &trans         &trans     &trans     &trans     &trans            &bootloader
 &trans     &trans     &kp C_SLEEP &trans    &trans         &out OUT_USB           &trans         &trans     &trans     &trans     &trans            &trans
-&bt BT_CLR &trans     &trans     &trans     &bt BT_PRV     &out OUT_BLE           &trans         &trans     &trans     &trans     &trans            &bt BT_CLT_ALL
+&bt BT_CLR &trans     &trans     &trans     &bt BT_PRV     &out OUT_BLE           &trans         &trans     &trans     &trans     &trans            &bt BT_CLR_ALL
            &trans     &trans     &trans     &trans         &trans           &trans         &trans     &trans     &trans     &trans
 
             >;
