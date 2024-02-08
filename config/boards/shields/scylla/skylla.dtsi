@@ -72,7 +72,7 @@ nice_view_spi: &spi0 {
     status = "disabled";
 };
 
-
+/*
  * PS/2 Mouse / Trackpoint
  */
 
@@ -247,3 +247,4 @@ nice_view_spi: &spi0 {
       };
     };
 };
+ */
