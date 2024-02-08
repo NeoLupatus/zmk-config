@@ -44,8 +44,8 @@
 &kp ESC    &kp 1      &kp 2      &kp 3      &kp 4          &kp 5            &kp 6          &kp 7      &kp 8      &kp 9      &kp 0        &kp GRAVE
 &kp TAB    &kp Q      &kp W      &kp E      &kp R          &kp T            &kp Y          &kp U      &kp I      &kp O      &kp P        &kp BSLH
 &kp LSHFT  &kp A      &kp S      &kp D      &kp F          &kp G            &kp H          &kp J      &kp K      &kp L      &kp SEMI     &kp SQT
-&kp LCTRL  &kp Z      &kp X      &kp C      &kp V          &kp B            &kp N          &kp M      &kp COMMA  &kp DOT    &kp FSLH     &kp LWIN
-           &lt 3 LALT &kp SPACE  &kp RET    &lt 1 MINUS    &lt 2 EQUAL      &bspc_del   &kp RSHFT  &mkp LCLK  &mkp MCLK  &mkp RCLK
+&kp LCTRL  &kp Z      &kp X      &kp C      &kp V          &kp B            &kp N          &kp M      &kp COMMA  &kp DOT    &kp FSLH     &bspc_del
+           &lt 3 LALT &kp SPACE  &kp RET    &lt 1 MINUS    &kp LWIN         &lt 2 EQUAL    &kp RSHFT  &mkp LCLK  &mkp MCLK  &mkp RCLK
             >;
         };
 
