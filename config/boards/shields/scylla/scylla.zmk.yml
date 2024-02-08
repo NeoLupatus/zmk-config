@@ -6,6 +6,7 @@ url: https://github.com/NeoLupatus/zmk-config
 requires: [pro_micro]
 features:
   - keys
+  - pointer
 siblings:
   - scylla_left
   - scylla_right_trackpoint
